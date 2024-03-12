@@ -1,3 +1,10 @@
+# Important, additional explanation about URP & HDRP
+I found that Unity3D has integrated debugging capabilities.
+Open Window -> Analysis -> Rendering Debugger
+Rendering Debugger Window -> sidebar:Material -> Material Filters
+Dorpdown material override or vertex attribute select the item you want to debug.
+
+
 # CustomDrawMode
 
 This is a simple tool designed for technical artists. It extends and customizes the Draw Mode of the Unity3D Scene window. 
